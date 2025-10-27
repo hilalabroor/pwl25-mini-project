@@ -125,7 +125,7 @@ Berikut adalah penjelasan singkat untuk setiap file berdasarkan struktur proyek:
 - Screenshot: ![POST create order](screenshot/create.jpg)
 
 4) PUT - Update Order  
-- Endpoint: PUT /api/orders/1  
+- Endpoint: PUT /api/orders/3
 - Screenshot: ![PUT update order](screenshot/update.jpg)
 
 5) DELETE - Hapus Order  
