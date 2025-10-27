@@ -24,6 +24,7 @@ Tugas ini adalah mini-project UTS mata kuliah Pemrograman Web Lanjut. Disini say
    - npm install express mysql2 dotenv morgan body-parser
    - npm install --save-dev nodemon
 4. Buat struktur folder:
+```
     pwl25-mini-project/
     │
     ├── src/
@@ -48,7 +49,8 @@ Tugas ini adalah mini-project UTS mata kuliah Pemrograman Web Lanjut. Disini say
     ├── seed.sql
     ├── request.log
     ├── README.md
-    └── screenshot/ 
+    └── screenshot/
+```
 
 5. Buat file SQL untuk membuat database dan tabel. Terdapat pada file order.sql
 6. Implementasikan koneksi DB menggunakan mysql2 dan dotenv. Terdapat pada file models/db.js
