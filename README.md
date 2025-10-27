@@ -46,7 +46,7 @@ Tugas ini adalah mini-project UTS mata kuliah Pemrograman Web Lanjut. Disini say
     ├── .gitignore
     ├── package.json
     ├── package-lock.json
-    ├── seed.sql
+    ├── order.sql
     ├── request.log
     ├── README.md
     └── screenshot/
